@@ -943,7 +943,7 @@ table {
 .cta-button a.button {
   display: inline-block;
   padding: 12px 24px !important;
-  margin: 10px 5px;
+  margin: 30px 0px 10px 0px;
   background-color: var(--main-accent-color) !important;
   color: var(--text-color) !important;
   text-decoration: none;
