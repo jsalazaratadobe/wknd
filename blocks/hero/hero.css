@@ -23,14 +23,21 @@
 .hero h3,
 .hero h4,
 .hero h5,
-.hero h6,
-.hero p {
+.hero h6 {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
   color: var(--text-light);
   text-align: center;
   font-family: var(--black-font-family);
+}
+.hero p {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  color: var(--text-light);
+  text-align: center;
+  font-family: var(--body-font-family);
 }
 
 /* Special underline (only for h1 by default) */
